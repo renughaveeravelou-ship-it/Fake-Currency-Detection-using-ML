@@ -80,7 +80,7 @@ Improve model accuracy
 Add authentication system
 Docker support
 
-#Author
+# Author
 Renugha V
 
 # License
