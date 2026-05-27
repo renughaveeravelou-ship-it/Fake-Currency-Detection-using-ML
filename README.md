@@ -21,6 +21,7 @@ Jupyter Notebook
 End_to_End_Machine_Learning_Project/
 
 │
+
 ├── app.py                          # Flask Web Application
 
 ├── main.py                         # Main Project Execution File
