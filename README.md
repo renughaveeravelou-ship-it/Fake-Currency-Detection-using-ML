@@ -29,7 +29,8 @@ End_to_End_Machine_Learning_Project/
 ├── requirements.txt            # Required Python libraries
 ├── pyproject.toml              # Project configuration
 └── README.md                   # Project documentation
-Installation
+
+## Installation
 
 Clone the repository:
 git clone <your-github-repo-link>
@@ -84,4 +85,4 @@ Docker support
 Renugha V
 
 # License
-This project is created for educational and learning purposes.
+This project is educaational purpose only.
