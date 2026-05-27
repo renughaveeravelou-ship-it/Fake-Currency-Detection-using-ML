@@ -21,13 +21,21 @@ Jupyter Notebook
 End_to_End_Machine_Learning_Project/
 │
 ├── app.py                          # Flask Web Application
+
 ├── main.py                         # Main Project Execution File
+
 ├── Banknote.py                     # Banknote Prediction Module
+
 ├── classifier.pkl                  # Trained Machine Learning Model
+
 ├── BankNote_Authentication.csv     # Dataset for Training & Testing
+
 ├── modelTraining.ipynb             # Model Training Notebook
+
 ├── requirements.txt                # Required Python Dependencies
+
 ├── pyproject.toml                  # Project Configuration File
+
 └── README.md                       # Project Documentation
 
 ## Installation
